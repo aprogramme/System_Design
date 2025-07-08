@@ -3,17 +3,17 @@ System design is the process of defining the architecture, components, modules, 
 
 ## OOPs (Object Oriented Programmings)
 1. Abstraction
-   -> Abstraction hides unnecessary implementation details from the client and exposes 
+   > Abstraction hides unnecessary implementation details from the client and exposes 
       only what is essential to use an object’s functionality.
 2. Encapsulation
    > Encapsulation bundles an object’s data (its state) and the methods that operate on 
      that data into a single unit, and controls access to its inner workings.
 3. Inheritance
-   -> Real-world objects are often related in parent-child relationships. 
-   -> Example: Object A (Parent) and Object B (Child) share properties. 
-   -> In programming, this relationship is mimicked using Inheritance. 
+   > Real-world objects are often related in parent-child relationships. 
+   > Example: Object A (Parent) and Object B (Child) share properties. 
+   > In programming, this relationship is mimicked using Inheritance. 
 5. Polymorphism
-   -> Derived from: "Poly" (many) + "Morph" (forms) = many forms. 
-   -> One stimulus → different responses based on object/situation.
+   > Derived from: "Poly" (many) + "Morph" (forms) = many forms. 
+   > One stimulus → different responses based on object/situation.
 
 ## UML Diagram
