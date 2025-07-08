@@ -17,3 +17,4 @@ System design is the process of defining the architecture, components, modules, 
    > One stimulus → different responses based on object/situation.
 
 ## UML Diagram
+A UML diagram, based on the Unified Modeling Language, is a visual representation of a system's structure and behavior, used primarily in software and systems engineering.
