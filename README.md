@@ -32,6 +32,7 @@ A UML diagram, based on the Unified Modeling Language, is a visual representatio
 <img width="753" height="872" alt="Image" src="https://github.com/user-attachments/assets/cdb148e5-0384-4a69-9f14-d675c4ad5b0c" />
 
 5.ATM Transaction
+
 <img width="651" height="686" alt="Image" src="https://github.com/user-attachments/assets/ef18d36c-7483-4858-b210-b9ea970418da" />
 
 9. ATM Transaction Diagram
