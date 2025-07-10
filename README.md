@@ -24,3 +24,4 @@ A UML diagram, based on the Unified Modeling Language, is a visual representatio
 2.
 <img width="1117" height="795" alt="Image" src="https://github.com/user-attachments/assets/185857e6-2c40-42e6-bf53-c87ed3b55ad9" />
 3.
+<img width="1092" height="658" alt="Image" src="https://github.com/user-attachments/assets/9a860661-be73-4618-a032-2f3e2522440a" />
