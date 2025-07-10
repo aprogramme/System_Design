@@ -19,9 +19,18 @@ System design is the process of defining the architecture, components, modules, 
 ## UML Diagram
 A UML diagram, based on the Unified Modeling Language, is a visual representation of a system's structure and behavior, used primarily in software and systems engineering.
 
-1.
+1.Class Diagram
 <img width="1117" height="880" alt="Image" src="https://github.com/user-attachments/assets/73e878b1-b5d3-46ee-86d1-5b986dc5b068" />
-2.
+2.Association
 <img width="1117" height="795" alt="Image" src="https://github.com/user-attachments/assets/185857e6-2c40-42e6-bf53-c87ed3b55ad9" />
-3.
 <img width="1092" height="658" alt="Image" src="https://github.com/user-attachments/assets/9a860661-be73-4618-a032-2f3e2522440a" />
+3.Composition
+<img width="807" height="848" alt="Image" src="https://github.com/user-attachments/assets/910fa69e-53e3-4a46-9c88-95581c27cf67" />
+<img width="773" height="822" alt="Image" src="https://github.com/user-attachments/assets/e3afdb6e-f8bf-49c6-93df-30627008009c" />
+4.Sequence Diagram
+<img width="697" height="655" alt="Image" src="https://github.com/user-attachments/assets/08cca8f6-3262-4d5e-9358-b12b8b34a5f9" />
+<img width="753" height="872" alt="Image" src="https://github.com/user-attachments/assets/cdb148e5-0384-4a69-9f14-d675c4ad5b0c" />
+8.ATM Transaction
+<img width="651" height="686" alt="Image" src="https://github.com/user-attachments/assets/ef18d36c-7483-4858-b210-b9ea970418da" />
+9. ATM Transaction Diagram
+<img width="1219" height="836" alt="Image" src="https://github.com/user-attachments/assets/54f3b10a-46be-473a-8afb-1668738c6394" />
