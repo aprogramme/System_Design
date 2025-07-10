@@ -30,7 +30,9 @@ A UML diagram, based on the Unified Modeling Language, is a visual representatio
 4.Sequence Diagram
 <img width="697" height="655" alt="Image" src="https://github.com/user-attachments/assets/08cca8f6-3262-4d5e-9358-b12b8b34a5f9" />
 <img width="753" height="872" alt="Image" src="https://github.com/user-attachments/assets/cdb148e5-0384-4a69-9f14-d675c4ad5b0c" />
-8.ATM Transaction
+
+5.ATM Transaction
 <img width="651" height="686" alt="Image" src="https://github.com/user-attachments/assets/ef18d36c-7483-4858-b210-b9ea970418da" />
+
 9. ATM Transaction Diagram
 <img width="1219" height="836" alt="Image" src="https://github.com/user-attachments/assets/54f3b10a-46be-473a-8afb-1668738c6394" />
