@@ -55,3 +55,6 @@ In system design, SOLID refers to a set of five object-oriented design principle
 
 5. Dependency Inversion Principle (DIP): 
    >High-level modules should not depend on low-level modules. Both should depend on abstractions. Abstractions should not depend on details. Details should depend on abstractions. 
+
+## Creating Document Editor
+<img width="1635" height="1006" alt="Image" src="https://github.com/user-attachments/assets/52ed7a75-0652-40fb-808d-da2a376949eb" />
