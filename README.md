@@ -93,3 +93,22 @@ In system design, SOLID refers to a set of five object-oriented design principle
 
 ### Strategy Design Pattern
 Defines a family of Algorithm, put them into separate classes so that they can be changed at run time.
+<img width="782" height="545" alt="Image" src="https://github.com/user-attachments/assets/3c45de64-be5f-4bb3-abe9-9a9c65fa7640" />
+
+
+<img width="1707" height="691" alt="Image" src="https://github.com/user-attachments/assets/0404ca69-0798-4f88-8cfc-fac3a3433fd4" />
+
+
+<img width="1606" height="717" alt="Image" src="https://github.com/user-attachments/assets/2e389b99-ddf0-4506-aa37-d2f86da9f9b9" />
+
+
+<img width="1097" height="836" alt="Image" src="https://github.com/user-attachments/assets/aae76916-9909-4018-8438-4f4ad7abdb8f" />
+
+
+<img width="1626" height="427" alt="Image" src="https://github.com/user-attachments/assets/ded6a23e-7f52-44e5-b910-35a56d0c210f" />
+
+
+<img width="1529" height="532" alt="Image" src="https://github.com/user-attachments/assets/1985d41a-c1b4-4ce1-8472-c31d093df31d" />
+
+
+<img width="886" height="741" alt="Image" src="https://github.com/user-attachments/assets/44c19be0-b73e-442b-bf4a-99b2d145108f" />
