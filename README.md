@@ -110,5 +110,3 @@ Defines a family of Algorithm, put them into separate classes so that they can b
 
 <img width="1529" height="532" alt="Image" src="https://github.com/user-attachments/assets/1985d41a-c1b4-4ce1-8472-c31d093df31d" />
 
-
-<img width="886" height="741" alt="Image" src="https://github.com/user-attachments/assets/44c19be0-b73e-442b-bf4a-99b2d145108f" />
