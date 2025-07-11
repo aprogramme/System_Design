@@ -86,7 +86,9 @@ In system design, SOLID refers to a set of five object-oriented design principle
 
 ### Problem with Inheritance
 >Code Re-use
+
 >To add new feature a lot of changes were required
+
 >Breaking OCP
 
 ### Strategy Design Pattern
