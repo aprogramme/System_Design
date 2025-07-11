@@ -60,4 +60,26 @@ In system design, SOLID refers to a set of five object-oriented design principle
 <img width="1635" height="1006" alt="Image" src="https://github.com/user-attachments/assets/52ed7a75-0652-40fb-808d-da2a376949eb" />
 
 ## Strategy Design Pattern
+1.
 
+<img width="907" height="596" alt="Image" src="https://github.com/user-attachments/assets/15a7acfd-3577-47cc-8f57-18a85e9ee846" />
+
+2.
+
+<img width="1004" height="846" alt="Image" src="https://github.com/user-attachments/assets/cb3b4106-26fb-41dc-b623-f727d5093a5d" />
+
+3
+
+<img width="1541" height="771" alt="Image" src="https://github.com/user-attachments/assets/4c03094c-adb9-4fa1-8089-74594a23349d" />
+
+4
+
+<img width="1299" height="840" alt="Image" src="https://github.com/user-attachments/assets/f5069869-ef5c-4974-bdd8-f613ebd7732c" />
+
+5
+
+<img width="1371" height="613" alt="Image" src="https://github.com/user-attachments/assets/6fcf02ef-05a0-47e6-bc3b-005bd6364183" />
+
+6
+
+<img width="1508" height="710" alt="Image" src="https://github.com/user-attachments/assets/7acd5af7-734b-41e8-9948-7a61bb47c143" />
