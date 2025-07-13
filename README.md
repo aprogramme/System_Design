@@ -110,3 +110,6 @@ Defines a family of Algorithm, put them into separate classes so that they can b
 
 <img width="1529" height="532" alt="Image" src="https://github.com/user-attachments/assets/1985d41a-c1b4-4ce1-8472-c31d093df31d" />
 
+## Build Zomato food delivery app
+### UML of app
+<img width="2732" height="1645" alt="Image" src="https://github.com/user-attachments/assets/d531752e-a584-47cc-a3fc-2e62b65a2d84" />
