@@ -113,3 +113,6 @@ Defines a family of Algorithm, put them into separate classes so that they can b
 ## Build Zomato food delivery app
 ### UML of app
 <img width="2732" height="1645" alt="Image" src="https://github.com/user-attachments/assets/d531752e-a584-47cc-a3fc-2e62b65a2d84" />
+
+## Observer Design Pattern
+![Image](https://github.com/user-attachments/assets/a5cbce91-5cca-404d-b851-f9a54a383406)
