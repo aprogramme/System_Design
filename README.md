@@ -115,4 +115,9 @@ Defines a family of Algorithm, put them into separate classes so that they can b
 <img width="2732" height="1645" alt="Image" src="https://github.com/user-attachments/assets/d531752e-a584-47cc-a3fc-2e62b65a2d84" />
 
 ## Observer Design Pattern
+Defines a one-to-many relationship b/w objects so that when one object changes state, all of its dependents are notified and update automatically.
 ![Image](https://github.com/user-attachments/assets/a5cbce91-5cca-404d-b851-f9a54a383406)
+
+## Decorator Design Pattern
+Decorator pattern attaches additional responsibilities to an object dynamically decorator provides a flexible alternative to subclassing for extending functionality.
+![Image](https://github.com/user-attachments/assets/324d35f2-3364-4ced-a53a-7d7c6ad87d5b)
