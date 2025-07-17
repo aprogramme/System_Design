@@ -121,3 +121,9 @@ Defines a one-to-many relationship b/w objects so that when one object changes s
 ## Decorator Design Pattern
 Decorator pattern attaches additional responsibilities to an object dynamically decorator provides a flexible alternative to subclassing for extending functionality.
 ![Image](https://github.com/user-attachments/assets/324d35f2-3364-4ced-a53a-7d7c6ad87d5b)
+
+## Build a Notification System
+![Image](https://github.com/user-attachments/assets/37017446-59e1-477b-82db-d69642fa80f0)
+
+## Command Design Pattern
+![Image](https://github.com/user-attachments/assets/45f8a2ed-4ded-409d-869f-fbf908c34916)
