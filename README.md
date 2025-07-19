@@ -127,3 +127,8 @@ Decorator pattern attaches additional responsibilities to an object dynamically 
 
 ## Command Design Pattern
 ![Image](https://github.com/user-attachments/assets/45f8a2ed-4ded-409d-869f-fbf908c34916)
+
+## Adapter Design Pattern 
+![Image](https://github.com/user-attachments/assets/6c331d17-8f31-48a0-b5f3-4c4359d3e279)
+
+![Image](https://github.com/user-attachments/assets/57ce55c2-23c0-414b-b55b-f407ad40b2e2)
