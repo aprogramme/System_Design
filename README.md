@@ -132,3 +132,8 @@ Decorator pattern attaches additional responsibilities to an object dynamically 
 ![Image](https://github.com/user-attachments/assets/6c331d17-8f31-48a0-b5f3-4c4359d3e279)
 
 ![Image](https://github.com/user-attachments/assets/57ce55c2-23c0-414b-b55b-f407ad40b2e2)
+
+## Facade Design Pattern
+![Image](https://github.com/user-attachments/assets/ce2cbe22-e687-4d1c-b295-450e7d916fd9)
+
+![Image](https://github.com/user-attachments/assets/b4fc8eec-55b2-4eec-87fe-87086bba72e1)
