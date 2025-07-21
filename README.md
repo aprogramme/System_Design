@@ -137,3 +137,8 @@ Decorator pattern attaches additional responsibilities to an object dynamically 
 ![Image](https://github.com/user-attachments/assets/ce2cbe22-e687-4d1c-b295-450e7d916fd9)
 
 ![Image](https://github.com/user-attachments/assets/b4fc8eec-55b2-4eec-87fe-87086bba72e1)
+
+## Composite Design Pattern
+![Image](https://github.com/user-attachments/assets/6f29d17f-e880-41d0-aff6-a6b468ee3fab)
+
+![Image](https://github.com/user-attachments/assets/49f5f081-9553-418e-aa78-acfbd7e0f3ae)
