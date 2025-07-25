@@ -142,3 +142,12 @@ Decorator pattern attaches additional responsibilities to an object dynamically 
 ![Image](https://github.com/user-attachments/assets/6f29d17f-e880-41d0-aff6-a6b468ee3fab)
 
 ![Image](https://github.com/user-attachments/assets/49f5f081-9553-418e-aa78-acfbd7e0f3ae)
+
+## Template Method Pattern
+![Image](https://github.com/user-attachments/assets/770883bb-5c15-4151-9bad-30d3ef3bc80b)
+
+## Proxy Design Pattern
+[Proxy Notes.pdf](https://github.com/user-attachments/files/21424517/Proxy.Notes.pdf)
+
+## Chain of Responsibility
+![Image](https://github.com/user-attachments/assets/6679aba9-c480-4cb0-9a36-b1aed5aded08)
